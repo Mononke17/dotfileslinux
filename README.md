@@ -1,1 +1,1 @@
-# my dotfiles in GNU/Linux
+# my dotfiles for GNU/Linux
